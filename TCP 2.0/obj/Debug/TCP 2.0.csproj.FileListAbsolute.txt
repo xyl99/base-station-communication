@@ -1,0 +1,19 @@
+D:\Percobaan KRSBI\TCP 2.0\TCP 2.0\bin\Debug\TCP 2.0.exe.config
+D:\Percobaan KRSBI\TCP 2.0\TCP 2.0\bin\Debug\TCP 2.0.exe
+D:\Percobaan KRSBI\TCP 2.0\TCP 2.0\bin\Debug\TCP 2.0.pdb
+D:\Percobaan KRSBI\TCP 2.0\TCP 2.0\obj\Debug\TCP 2.0.csprojResolveAssemblyReference.cache
+D:\Percobaan KRSBI\TCP 2.0\TCP 2.0\obj\Debug\TCP_2._0.Form1.resources
+D:\Percobaan KRSBI\TCP 2.0\TCP 2.0\obj\Debug\TCP_2._0.Properties.Resources.resources
+D:\Percobaan KRSBI\TCP 2.0\TCP 2.0\obj\Debug\TCP 2.0.csproj.GenerateResource.Cache
+D:\Percobaan KRSBI\TCP 2.0\TCP 2.0\obj\Debug\TCP 2.0.csproj.CoreCompileInputs.cache
+D:\Percobaan KRSBI\TCP 2.0\TCP 2.0\obj\Debug\TCP 2.0.exe
+D:\Percobaan KRSBI\TCP 2.0\TCP 2.0\obj\Debug\TCP 2.0.pdb
+H:\TCP 2.0\TCP 2.0\bin\Debug\TCP 2.0.exe.config
+H:\TCP 2.0\TCP 2.0\obj\Debug\TCP 2.0.exe
+H:\TCP 2.0\TCP 2.0\obj\Debug\TCP 2.0.pdb
+H:\TCP 2.0\TCP 2.0\bin\Debug\TCP 2.0.exe
+H:\TCP 2.0\TCP 2.0\bin\Debug\TCP 2.0.pdb
+H:\TCP 2.0\TCP 2.0\obj\Debug\TCP 2.0.csprojResolveAssemblyReference.cache
+H:\TCP 2.0\TCP 2.0\obj\Debug\TCP_2._0.Form1.resources
+H:\TCP 2.0\TCP 2.0\obj\Debug\TCP_2._0.Properties.Resources.resources
+H:\TCP 2.0\TCP 2.0\obj\Debug\TCP 2.0.csproj.GenerateResource.Cache
